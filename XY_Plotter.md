@@ -7,7 +7,8 @@ It is a plotter that operates in two axes of motion ("X" and "Y") in order to dr
 
 Image &#8658; Gcode &#8658; G-Code Sender &#8658; Arduino(with GRBL firmware) &#8658; Stepper motors and its driver &#8658;
 Complex sliding  Mechanical Parts &#8658; Image
- -Stages deciphered
+
+**Stages deciphered**
 | **Stages** | **Notion** | **Advantage** | **Disadvantage** |
 | --- | --- | --- | --- |
 | **Image** | An Image to be drawn | Any kind of vector graphic image can be used  | As the complesity increases,time increases |

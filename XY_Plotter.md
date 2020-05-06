@@ -18,3 +18,11 @@ Complex sliding  Mechanical Parts &#8658; Image
 | **Stepper Motors and its Driver** | Need for the motion of the machine |  Its low speed-high torque enables the use of timing belt.  | There is need of separate driver to control these motors |
 | **Mechanical system** | Sliders,belts and beams,etc are the most important components of this whole project | Provides the ability to cover(along with motors) the 2D plane  | **Hell!!** This is going to be toughest part to build in this whole project.If this Mechanical system has a flaw,then all the above ideations will go vain|
 | **Image**| End result | Will look Beautiful :D | If any of the above stages go wrong....Rest is History...!!! |
+
+**Scopes of Improvement:**
+* In this project our idea is to build a 2D XY Plotter which just draws a given image
+* We can improvise this machine by changing the nibbler part(which is a pen initially) to a drilling kind of nibbler which can carve out stuffs like wood,wax,even metals
+* By Introducing Z direction also into this machine,it is possible to make our own 3D printer
+\
+\
+*This project will mostly end by prototyping phase.If we wanted to make a robust model we can move onto Manufacturing Phase.

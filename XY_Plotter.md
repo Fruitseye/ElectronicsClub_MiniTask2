@@ -25,4 +25,4 @@ Complex sliding  Mechanical Parts &#8658; Image
 * By Introducing Z direction also into this machine,it is possible to make our own 3D printer
 \
 \
-*This project will mostly end by prototyping phase.If we wanted to make a robust model we can move onto Manufacturing Phase.
+*This project will mostly end by prototyping phase.If we wanted to make a robust model we can move onto Manufacturing Phase.*
